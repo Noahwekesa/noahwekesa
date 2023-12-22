@@ -3,4 +3,4 @@
 <!--
 profile here
 -->
-I'm a Full Stack Developer, good at backend
+I'm a Full Stack Developer, good at backend development.
