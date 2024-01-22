@@ -3,5 +3,7 @@
 <!--
 profile here
 -->
-I'm a Full Stack Developer, good at backend development.
-[https://wekesa.netlify.app/](https://wekesa.netlify.app/)
+
+I'm a Full Stack Developer.
+
+- Visit my portfolio [https://wekesa.netlify.app/](https://wekesa.netlify.app/)
