@@ -13,8 +13,7 @@ I'm a Full Stack Developer.
 - Python
 - JavaScript
 - Python Django Framework
-- <i class="fa-brands fa-html5"  width="50" height="50"></i>
-  <img src="fa-html5.svg" width="50" height="50">
+- <img src="img/html5.svg" width="50" height="50">
 
 ## Contact & Socials
 
