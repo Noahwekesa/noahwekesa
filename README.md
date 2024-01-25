@@ -13,7 +13,7 @@ I'm a Full Stack Developer.
 - Python
 - JavaScript
 - Python Django Framework
-- <img src="img/html5.svg" width="50" height="50">
+- <img src="img/html5.svg" width="20" height="50" color="red">
 
 ## Contact & Socials
 
