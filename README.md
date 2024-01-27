@@ -10,6 +10,15 @@ I'm a Full Stack Developer.
 
 ## Skills & Frameworks
 
+- HTML & CSS
+- Python
+- JavaScript
+- Python Django Frameworks
+- Reactjs
+- Nextjs
+- Astrojs
+- HTMX
+
 ## Contact & Socials
 
 - Email: <a href="mailto:noahwekesa0@gmail.com" target="_blank">noahwekesa0@gmail.com</a>
