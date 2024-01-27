@@ -4,7 +4,8 @@
 profile here
 -->
 
-I'm a Full Stack Developer.
+- I'm a Full Stack Developer.
+- A proficient Django Developer
 
 - Visit my portfolio [https://wekesa.netlify.app/](https://wekesa.netlify.app/)
 
