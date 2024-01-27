@@ -8,11 +8,7 @@ I'm a Full Stack Developer.
 
 - Visit my portfolio [https://wekesa.netlify.app/](https://wekesa.netlify.app/)
 
-### Skills & Frameworks
-
-- Python
-- JavaScript
-- Python Django Framework
+## Skills & Frameworks
 
 ## Contact & Socials
 
