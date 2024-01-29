@@ -14,6 +14,7 @@ profile here
 - HTML & CSS
 - Python
 - Django
+- Django Rest Frameworks
 - JavaScript
 - Reactjs
 - Nextjs
