@@ -6,19 +6,23 @@ profile here
 
 - I'm a Full Stack Developer.
 - A proficient Django Developer
-
+- Linux Users
 - Visit my portfolio [https://wekesa.netlify.app/](https://wekesa.netlify.app/)
 
 ## Skills & Frameworks
 
 - HTML & CSS
 - Python
+- Django
 - JavaScript
-- Python Django Frameworks
 - Reactjs
 - Nextjs
 - Astrojs
 - HTMX
+- Excel
+- MySQL
+- Mongodb
+- Postgres
 
 ## Contact & Socials
 
