@@ -19,6 +19,7 @@ profile here
 - Reactjs
 - Nextjs
 - Astrojs
+- svelte
 - HTMX
 - Excel
 - MySQL
