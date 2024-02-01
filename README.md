@@ -16,6 +16,7 @@ profile here
 - Django
 - Django Rest Frameworks
 - JavaScript
+- Nodejs
 - Reactjs
 - Nextjs
 - Astrojs
