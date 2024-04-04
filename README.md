@@ -19,6 +19,9 @@ profile here
 ## Interests:
 
 - Web development
+- Machine Learning
+- Artificial Intelligence
+- Data Science
 
 ## Reach me by:
 
